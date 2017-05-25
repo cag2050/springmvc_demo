@@ -14,7 +14,7 @@
 </head>
 <body>
 <h2>Hello World!</h2>
-
+<img src="/springmvc_demo/images/tree.jpg"></img>
 <form action="login">
 	用户名：<input id="username" name="username" type="text"></input><br>
 	密  码：<input id="username" name="password" type="password"></input><br>
