@@ -8,3 +8,5 @@
 需要自己安装jdk 1.8, tomcat 9.0
  
 在 tomcat 部署并启动 tomcat 后，访问地址：http://localhost:8080/springmvc_demo
+
+参考链接：http://blog.csdn.net/aitcax/article/details/41543829
